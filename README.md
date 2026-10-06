@@ -1,3 +1,14 @@
+---
+title: Munim
+emoji: 💰
+colorFrom: green
+colorTo: yellow
+sdk: gradio
+sdk_version: 6.29.1
+app_file: app.py
+pinned: false
+---
+
 # Munim (मुनीम): a chat-based digital khata for small shops
 
 **SDG 8: Decent Work and Economic Growth (target 8.10, access to financial services for small businesses)**
