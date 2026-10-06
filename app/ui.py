@@ -83,6 +83,7 @@ HEAD = """
   setIcon();
   setTimeout(setIcon, 1500);
 })();
+.mn-paper code { background:#e9e2cc !important; color:#14342b !important; padding:2px 8px; border-radius:6px; font-family:'IBM Plex Mono',monospace; }
 </script>
 """
 
