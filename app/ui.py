@@ -63,6 +63,7 @@ body, .gradio-container { background:#f6f1e4 !important; font-family:'Inter',san
   border-radius:14px !important; overflow:hidden; box-shadow:0 5px 0 #e08a1e !important;
 }
 .mn-hero { border-radius:14px; }
+.mn-paper code { background:#e9e2cc !important; color:#14342b !important; padding:2px 8px; border-radius:6px; font-family:'IBM Plex Mono',monospace; }
 </style>
 """
 HEAD = """
